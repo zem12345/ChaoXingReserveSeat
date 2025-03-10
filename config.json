@@ -3,8 +3,8 @@
         {"username": "19851319211",
         "password": "zem030925",
         "time": ["9:30","21:30"],
-        "roomid":"6676",
-        "seatid":["034"],
+        "roomid":"6670",
+        "seatid":["049"],
         "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday","Saturday","Sunday"]
     }
     ]
